@@ -1,0 +1,9 @@
+Building FireXCoin
+
+See doc/readme-qt.rst for instructions on building FireXCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FireXCoin.
+
+See doc/build-*.txt for instructions on building firexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FireXCoin.
